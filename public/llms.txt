@@ -1,0 +1,100 @@
+# SCILX — Generative Engine Optimization Map
+
+> תבנה לי אתר של מותג בגדים
+
+---
+
+## Pages
+
+### בית
+https://scilx-aa4100cd.zappy5.app
+ברוכים הבאים ל-SCILX, מותג האופנה שמגדיר מחדש סטייל ואיכות. גלה קולקציות בגדים מעוצבות שמשדרגות כל הופעה. התחל את מסע האופנה שלך עוד היום.
+
+### הסיפור שלנו
+https://scilx-aa4100cd.zappy5.app/brand-story
+הצטרף למסע של SCILX, מותג אופנה שנולד מתשוקה לעיצוב וחדשנות. למד על החזון, הערכים והאנשים שמביאים לך בגדים שמספרים סיפור. היה חלק מהמורשת.
+
+### קיימות
+https://scilx-aa4100cd.zappy5.app/sustainability
+SCILX מובילה מהפכת אופנה מקיימת עם חומרים ידידותיים לסביבה וייצור אחראי. גלה איך כל פריט תורם לעתיד ירוק יותר. הצטרף לשינוי האמיתי.
+
+### צור קשר
+https://scilx-aa4100cd.zappy5.app/contact
+יש לך שאלה על קולקציית האופנה של SCILX? צור קשר לקבלת ייעוץ סטיילינג אישי, תמיכה בהזמנות או שיתופי פעולה. אנחנו כאן כדי להלביש אותך בחלום.
+
+### Products
+https://scilx-aa4100cd.zappy5.app/products
+המוצרים שלנו - SCILX
+
+### Cart
+https://scilx-aa4100cd.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://scilx-aa4100cd.zappy5.app/checkout
+תשלום
+
+### Login
+https://scilx-aa4100cd.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://scilx-aa4100cd.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://scilx-aa4100cd.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://scilx-aa4100cd.zappy5.app/product/:slug
+פרטי המוצר - SCILX
+
+### Category
+https://scilx-aa4100cd.zappy5.app/category/:slug
+מוצרים - SCILX
+
+## Legal & Policy
+
+### Privacy Policy
+https://scilx-aa4100cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://scilx-aa4100cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://scilx-aa4100cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SCILX
+תבנה לי אתר של מותג בגדים
+
+## Target Audience
+- חובבי אופנה עירוניים
+- תומכי אופנה בת קיימא
+- קונים טכנולוגיים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://scilx-aa4100cd.zappy5.app/sitemap.xml
+- Robots: https://scilx-aa4100cd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://scilx-aa4100cd.zappy5.app/llms-full.txt
+- Products (JSON): https://scilx-aa4100cd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://scilx-aa4100cd.zappy5.app/product-feed.xml
