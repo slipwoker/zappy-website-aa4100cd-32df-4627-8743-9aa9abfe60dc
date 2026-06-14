@@ -2,13 +2,13 @@
 
 תבנה לי אתר של מותג בגדים
 
-Source: https://scilx-aa4100cd.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם האופנה החדש שלך — SCILX
 
-URL: https://scilx-aa4100cd.zappy5.app
+URL: https://example.com
 Description: ברוכים הבאים ל-SCILX, מותג האופנה שמגדיר מחדש סטייל ואיכות. גלה קולקציות בגדים מעוצבות שמשדרגות כל הופעה. התחל את מסע האופנה שלך עוד היום.
 
 גלה את עולם האופנה החדש שלך — SCILX
@@ -344,7 +344,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## הסיפור שמאחורי כל תפר — SCILX
 
-URL: https://scilx-aa4100cd.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: הצטרף למסע של SCILX, מותג אופנה שנולד מתשוקה לעיצוב וחדשנות. למד על החזון, הערכים והאנשים שמביאים לך בגדים שמספרים סיפור. היה חלק מהמורשת.
 
 הסיפור שמאחורי כל תפר — SCILX
@@ -748,7 +748,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## אופנה שעושה טוב לעולם — SCILX
 
-URL: https://scilx-aa4100cd.zappy5.app/sustainability
+URL: https://example.com/sustainability
 Description: SCILX מובילה מהפכת אופנה מקיימת עם חומרים ידידותיים לסביבה וייצור אחראי. גלה איך כל פריט תורם לעתיד ירוק יותר. הצטרף לשינוי האמיתי.
 
 אופנה שעושה טוב לעולם — SCILX
@@ -1106,7 +1106,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## דבר איתנו, נתפור לך חוויה — SCILX
 
-URL: https://scilx-aa4100cd.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על קולקציית האופנה של SCILX? צור קשר לקבלת ייעוץ סטיילינג אישי, תמיכה בהזמנות או שיתופי פעולה. אנחנו כאן כדי להלביש אותך בחלום.
 
 דבר איתנו, נתפור לך חוויה — SCILX
@@ -1456,7 +1456,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## מוצרים
 
-URL: https://scilx-aa4100cd.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - SCILX
 
 מוצרים - SCILX
@@ -1712,7 +1712,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## עגלת קניות
 
-URL: https://scilx-aa4100cd.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - SCILX
@@ -1944,7 +1944,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## תשלום
 
-URL: https://scilx-aa4100cd.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - SCILX
@@ -2362,7 +2362,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## התחברות
 
-URL: https://scilx-aa4100cd.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - SCILX
@@ -2601,7 +2601,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## החשבון שלי
 
-URL: https://scilx-aa4100cd.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - SCILX
@@ -2995,7 +2995,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## ההזמנה התקבלה!
 
-URL: https://scilx-aa4100cd.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - SCILX
@@ -3251,7 +3251,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## מדיניות החזרות
 
-URL: https://scilx-aa4100cd.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - SCILX
@@ -3536,7 +3536,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## פרטי המוצר
 
-URL: https://scilx-aa4100cd.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - SCILX
 
 פרטי המוצר - SCILX
@@ -3770,7 +3770,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## מוצרים
 
-URL: https://scilx-aa4100cd.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - SCILX
 
 מוצרים - SCILX
@@ -4028,7 +4028,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## מדיניות פרטיות
 
-URL: https://scilx-aa4100cd.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4304,7 +4304,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## הצהרת נגישות
 
-URL: https://scilx-aa4100cd.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4589,7 +4589,7 @@ SCILX – אופנה עירונית עם תודעה. עיצובים חדשניי
 
 ## תנאי שימוש
 
-URL: https://scilx-aa4100cd.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

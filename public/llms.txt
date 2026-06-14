@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://scilx-aa4100cd.zappy5.app
+https://example.com
 ברוכים הבאים ל-SCILX, מותג האופנה שמגדיר מחדש סטייל ואיכות. גלה קולקציות בגדים מעוצבות שמשדרגות כל הופעה. התחל את מסע האופנה שלך עוד היום.
 
 ### הסיפור שלנו
-https://scilx-aa4100cd.zappy5.app/brand-story
+https://example.com/brand-story
 הצטרף למסע של SCILX, מותג אופנה שנולד מתשוקה לעיצוב וחדשנות. למד על החזון, הערכים והאנשים שמביאים לך בגדים שמספרים סיפור. היה חלק מהמורשת.
 
 ### קיימות
-https://scilx-aa4100cd.zappy5.app/sustainability
+https://example.com/sustainability
 SCILX מובילה מהפכת אופנה מקיימת עם חומרים ידידותיים לסביבה וייצור אחראי. גלה איך כל פריט תורם לעתיד ירוק יותר. הצטרף לשינוי האמיתי.
 
 ### צור קשר
-https://scilx-aa4100cd.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על קולקציית האופנה של SCILX? צור קשר לקבלת ייעוץ סטיילינג אישי, תמיכה בהזמנות או שיתופי פעולה. אנחנו כאן כדי להלביש אותך בחלום.
 
 ### Products
-https://scilx-aa4100cd.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - SCILX
 
 ### Cart
-https://scilx-aa4100cd.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://scilx-aa4100cd.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://scilx-aa4100cd.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://scilx-aa4100cd.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://scilx-aa4100cd.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://scilx-aa4100cd.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - SCILX
 
 ### Category
-https://scilx-aa4100cd.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - SCILX
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://scilx-aa4100cd.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://scilx-aa4100cd.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://scilx-aa4100cd.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://scilx-aa4100cd.zappy5.app/sitemap.xml
-- Robots: https://scilx-aa4100cd.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://scilx-aa4100cd.zappy5.app/llms-full.txt
-- Products (JSON): https://scilx-aa4100cd.zappy5.app/products.json
-- Products (Google Merchant RSS): https://scilx-aa4100cd.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
